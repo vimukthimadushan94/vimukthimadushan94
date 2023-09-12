@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**vimukthimadushan94/vimukthimadushan94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Spring Boot and Laravel projects
+- 🌱 I’m currently learning Angular
+- 📫 How to reach me: https://www.linkedin.com/in/vimukthi-madushan
+- ⚡ Fun fact: Badminton Lover
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Most Recent Project
+  
+  [Tuk Tuk CeylonRide](https://tuktukceylonride.com) is a most popular online tuk tuk booking website in Sri Lanka.
+  I have been overseeing this project since its initiation in 2019.  
+  My client wishes to enhance the user experience and
+  improve the admin panel features to make it easier to manage tuk tuks within the system recently.
+  
+  ![sri lankas most populer tuk tuk booking system](tuktuk.png)
+

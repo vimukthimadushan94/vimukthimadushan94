@@ -15,5 +15,5 @@
   
   Last Update: 03/09/2023
   
-  ![sri lankas most populer tuk tuk booking system](tuktuk-merge.png)
+  ![sri lankas most populer tuk tuk booking system](tuktuk-new.png)
 

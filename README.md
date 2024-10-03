@@ -4,6 +4,6 @@
   Spring Boot, OctoberCMS, Git, Jira, Livewire, JQuery, HTML, CSS
   
 - 📫 How to reach me: https://www.linkedin.com/in/vimukthi-madushan
-- Portfolio - https://vimukthimadushan.great-site.net
+- Portfolio - https://vimukthimadushan.com
 - ⚡ Fun fact: Badminton Lover
 
